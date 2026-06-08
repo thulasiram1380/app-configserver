@@ -2,4 +2,4 @@ build:
   id: 12345
   version: 100.3.4.
   name: "GIT-Production"
-  type: "GIT_Default"
+  type: "GIT-Default"
